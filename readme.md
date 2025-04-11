@@ -4,6 +4,9 @@
 
 This is a full-stack Task Manager web application that allows users to manage their tasks efficiently. The application includes **user authentication, profile management, and task management** functionalities. The frontend is built with **React**, while the backend is powered by **Node.js with Express.js**. The app provides a seamless user experience with state management using Redux Toolkit and API integration for task CRUD operations.
 
+
+[backend-data-cluster Data _ Cloud_ MongoDB Cloud.webm](https://github.com/user-attachments/assets/b6938ed7-cba0-44c7-bd22-adc045fa72aa)
+
 ## Frontend URL
 
 - https://task-management-frontend-liard.vercel.app
